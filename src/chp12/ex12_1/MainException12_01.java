@@ -1,6 +1,6 @@
 package chp12.ex12_1;
 
-public class MainExceptino12_01 {
+public class MainException12_01 {
     public static void main(String[] args) {
         String[] arr = {"봄","여름","가을","겨울"};
         for (int i = 0; i < arr.length; i++) {
